@@ -1,0 +1,11 @@
+{
+  "android": {
+    "release": {
+      "keystore": "./brainhack.jks",
+      "storePassword": "123456",
+      "alias": "dsta",
+      "password": "123456",
+      "keystoreType": "jks"
+    }
+  }
+}
